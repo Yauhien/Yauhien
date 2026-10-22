@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jauhen 👋
 
-<!--
-**Yauhien/Yauhien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Lead in Berlin with 12+ years in software quality.
 
-Here are some ideas to get you started:
+I lead quality for a group of five product teams at Optibus. I set test strategy, coach engineers so each team owns its quality, and build AI-assisted tooling that helps create, update, and fix automated tests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools I work with**
+
+- **Languages:** TypeScript, Java, SQL
+- **Web:** Playwright, Cypress, Selenium, Selenide
+- **Mobile:** Appium, XCTest
+- **API and BDD:** REST-assured, Postman, Cucumber, JUnit
+- **CI:** GitHub Actions, GitLab CI, Jenkins, Docker
+
+**Projects here**
+
+- [carsharing-ui-tests](https://github.com/Yauhien/carsharing-ui-tests): UI test automation take-home task (Java)
+- [carsharing-api-tests](https://github.com/Yauhien/carsharing-api-tests): API test automation take-home task (Java, REST-assured)
+- [pure_selenium_framework](https://github.com/Yauhien/pure_selenium_framework): a Selenium framework built from scratch in Java
+- [fluentlenium-maven](https://github.com/Yauhien/fluentlenium-maven): a simple test automation framework with FluentLenium and Maven
+
+Most of my recent work is in private company repos. The projects here are older frameworks and test tasks.
+
+📫 [LinkedIn](https://www.linkedin.com/in/jauhen-kanavalau-52b55686)
